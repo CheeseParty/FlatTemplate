@@ -27,9 +27,8 @@
                     <li><a class="navlink" href="#">4 Link</a></li>
                 </ul>
 
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bitte_porto_Livorno.JPG/1280px-Bitte_porto_Livorno.JPG" width="700px"><br>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bitte_porto_Livorno.JPG/1280px-Bitte_porto_Livorno.JPG" width="700px"><br>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bitte_porto_Livorno.JPG/1280px-Bitte_porto_Livorno.JPG" width="700px"><br>
+                <img src="http://www.wireless-techbook.com/uppic/lte/downlink/29.jpg" width="700px"><br>
+                
             </div>
 
         </body>
