@@ -13,10 +13,10 @@
                 <img src="img/logo.png" alt="logo">
 
                 <ul>
-                    <li><a href="index.php">1 Link</a></li>
-                    <li><a href="index.php">2 Link</a></li>
-                    <li><a href="index.php">3 Link</a></li>
-                    <li><a href="index.php">4 Link</a></li>
+                    <li><a class="currnavlink" href="index.php">1 Link</a></li>
+                    <li><a class="navlink" href="index.php">2 Link</a></li>
+                    <li><a class="navlink" href="index.php">3 Link</a></li>
+                    <li><a class="navlink" href="index.php">4 Link</a></li>
                 </ul>
             </div>
         </body>

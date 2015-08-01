@@ -5,3 +5,22 @@ html,body{
     margin:0;
     padding:0;
 }
+
+#header img{
+    height:150px;
+    margin:50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+    padding-right: 30px;
+}
+
+.navlink{
+    
+}
