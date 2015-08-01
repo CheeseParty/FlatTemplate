@@ -26,7 +26,10 @@
                     <li><a class="navlink" href="#">3 Link</a></li>
                     <li><a class="navlink" href="#">4 Link</a></li>
                 </ul>
-                <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="1" data-href="https://www.facebook.com/CodesMeufs/videos/1833718096842241/"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/CodesMeufs/videos/1833718096842241/"><a href="https://www.facebook.com/CodesMeufs/videos/1833718096842241/"></a><p>Aime si tu trouve qu&#039;il gére</p>Posted by <a href="https://www.facebook.com/CodesMeufs">Codes de Meufs</a> on samedi 1 août 2015</blockquote></div></div>
+
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bitte_porto_Livorno.JPG/1280px-Bitte_porto_Livorno.JPG" width="700px"><br>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bitte_porto_Livorno.JPG/1280px-Bitte_porto_Livorno.JPG" width="700px"><br>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bitte_porto_Livorno.JPG/1280px-Bitte_porto_Livorno.JPG" width="700px"><br>
             </div>
 
         </body>
