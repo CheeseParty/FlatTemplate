@@ -26,8 +26,7 @@
                     <li><a class="navlink" href="#">3 Link</a></li>
                     <li><a class="navlink" href="#">4 Link</a></li>
                 </ul>
-                <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="1" data-href="https://www.facebook.com/CodesMeufs/videos/1815173158696735/"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/CodesMeufs/videos/1815173158696735/"><a href="https://www.facebook.com/CodesMeufs/videos/1815173158696735/"></a><p>Meilleur vine au monde Mdddrrd&#039;autres videos aimez vite&gt;&gt;&gt; Codes de Meufs</p>Posted by <a href="https://www.facebook.com/CodesMeufs">Codes de Meufs</a> on dimanche 26 juillet 2015</blockquote></div></div>
-
+                <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-video" data-allowfullscreen="1" data-href="https://www.facebook.com/CodesMeufs/videos/1833718096842241/"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/CodesMeufs/videos/1833718096842241/"><a href="https://www.facebook.com/CodesMeufs/videos/1833718096842241/"></a><p>Aime si tu trouve qu&#039;il gére</p>Posted by <a href="https://www.facebook.com/CodesMeufs">Codes de Meufs</a> on samedi 1 août 2015</blockquote></div></div>
             </div>
 
         </body>
