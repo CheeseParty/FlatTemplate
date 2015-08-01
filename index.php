@@ -27,7 +27,7 @@
                     <li><a class="navlink" href="#">4 Link</a></li>
                 </ul>
 
-                <img src="http://auto.img.v4.skyrock.net/8509/19478509/pics/553269010_small.jpg" width="700px"><br>
+                SALOP DE PD
 
             </div>
 
