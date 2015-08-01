@@ -14,7 +14,7 @@
         <body>
             <div id="header">
                <!-- <img src="img/logo.png" alt="logo">-->
-                <h1 class="headertitle">Nom du site</h1>
+                <a class="headertitle" href="index.php">Nom du site</a>
 
 
             </div>
