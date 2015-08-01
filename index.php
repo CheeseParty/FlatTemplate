@@ -16,16 +16,16 @@
                <!-- <img src="img/logo.png" alt="logo">-->
                 <h1 class="headertitle">Nom du site</h1>
 
-                <!--<ul>
-                    <li><a class="currnavlink" href="index.php">1 Link</a></li>
-                    <li><a class="navlink" href="index.php">2 Link</a></li>
-                    <li><a class="navlink" href="index.php">3 Link</a></li>
-                    <li><a class="navlink" href="index.php">4 Link</a></li>
-                </ul>-->
+
             </div>
 
             <div id="container">
-                <h1 class="containertitle">Lorem Ipsum</h1>
+                <ul>
+                    <li><a class="currnavlink" href="index.php">1 Link</a></li>
+                    <li><a class="navlink" href="#">2 Link</a></li>
+                    <li><a class="navlink" href="#">3 Link</a></li>
+                    <li><a class="navlink" href="#">4 Link</a></li>
+                </ul>
             </div>
         </body>
 

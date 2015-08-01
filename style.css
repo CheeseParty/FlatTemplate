@@ -23,26 +23,24 @@ html,body{
 
 .headertitle{
     color:#ffffff;
-
     font-size:40px;
-    margin-top:0;
-    margin-left:500px;
+    margin: 0 0 0 500px;
+
 }
 
 #container{
     width:1000px;
     background-color: #ffffff;
-    display: block;
-    margin-top:0;
-    padding:0;
-    margin-right:auto;
-    margin-left:auto;
+    margin: 0 auto 0 auto;
+    height:1000px;
 
 }
 
 .containertitle{
     margin:0;
+    text-align: center;
 }
+
 a{
     text-decoration: none;
 }
@@ -60,8 +58,19 @@ li{
     text-transform: uppercase;
 }
 
+.navlink:hover{
+    color:#0e636b;
+}
+
 .currnavlink{
-    color:#22e8bc;
+    color:#0e636b;
     font-size:30px;
     text-transform: uppercase;
+}
+
+ul{
+    text-align:center;
+    margin-top:0;
+    display:block;
+
 }
