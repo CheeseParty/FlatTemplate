@@ -1,3 +1,4 @@
+
 <!DOCTYPE HTML>
     <HTML>
         <head>
@@ -5,5 +6,11 @@
             <meta charset="utf-8">
             <link rel="stylesheet" href="style.css">
         </head>
+
+        <body>
+            <div id="header">
+
+            </div>
+        </body>
 
     </HTML>
