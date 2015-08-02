@@ -12,10 +12,11 @@
         <div id="header">
             <a class="sitename" href="index.php">Site Name</a>
             <ul>
-                <li><a href="#" class="currnavlink">Accueil</a></li>
-                <li><a href="#" class="navlink">Mods</a></li>
-                <li><a href="#" class="navlink">Maps</a></li>
-                <li><a href="#" class="navlink">Forum</a></li>
+
+                <li><a href="#" class="currnavlink">Premier</a></li>
+                <li><a href="#" class="navlink">Deuxième</a></li>
+                <li><a href="#" class="navlink">Troisième</a></li>
+                <li><a href="#" class="navlink">Quatrième</a></li>
             </ul>
         </div>
 
