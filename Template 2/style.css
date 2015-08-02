@@ -3,7 +3,7 @@ html,body{
     height:100%;
     margin:0;
     padding:0;
-    font-family: "source sans pro";
+    font-family: "Source Sans pro";
     background-color:#4e4b4b;
 }
 #header{
@@ -54,7 +54,7 @@ li{
 }
 
 #container{
-    width:1500px;
+    width:1100px;
     margin:0 auto 0 auto;
     background-color:#5c5959;
     color:#ffffff;
@@ -82,4 +82,122 @@ li{
     height:200px;
     margin:auto;
     display:block;
+}
+
+@media screen and (max-width: 1100px){
+    #header{
+        width:100%;
+        line-height:80px;
+    }
+
+    .sitename{
+        font-size:30pt;
+        margin-left:60px;
+
+    }
+
+    ul{
+        margin:0 0 0 40px;
+    }
+
+    .navlink, .currnavlink{
+        font-size:14pt;
+        padding-right:50px;
+    }
+
+    #container{
+        width:90%;
+        padding: 10px 20px 10px 20px;
+    }
+
+    .containertitle{
+        font-size:25pt;
+    }
+
+    .paragraphe{
+        font-size:12pt;
+        padding-top:2px;
+        padding-bottom: 15px;
+    }
+
+    .title{
+        margin:0 0 0 30px;
+        font-size:25pt;
+
+
+    }
+    #container img{
+        height:100px;
+    }
+}
+
+@media screen and (max-width: 900px){
+    .sitename{
+        font-size:25pt;
+        margin-left:40px;
+    }
+
+    .containertitle{
+        font-size:21pt;
+    }
+
+    .paragraphe{
+        font-size:12pt;
+        padding-bottom: 11px;
+    }
+
+    .title{
+        margin:0 0 0 20px;
+        font-size:21pt;
+
+    }
+}
+
+@media screen and (max-width: 800px){
+    .sitename{
+        font-size:22pt;
+        margin-left:35px;
+    }
+
+    .containertitle{
+        font-size:19pt;
+    }
+
+    .paragraphe{
+        font-size:11pt;
+        padding-bottom: 9px;
+    }
+
+    .title{
+        margin:0 0 0 18px;
+        font-size:19pt;
+
+    }
+}
+
+@media screen and (max-width: 700px){
+    .sitename{
+        font-size:21pt;
+        margin-left:30px;
+    }
+
+    .containertitle{
+        font-size:17pt;
+    }
+
+    .paragraphe{
+        font-size:10pt;
+        padding-bottom: 7px;
+    }
+
+    .title{
+        margin:0 0 0 16px;
+        font-size:17pt;
+
+    }
+
+    .navlink, .currnavlink{
+        font-size:12pt;
+        padding-right:40px;
+    }
 }
