@@ -51,6 +51,7 @@ li{
 }
 .currnavlink{
     color:#353837;
+    text-decoration: underline;
 }
 
 #container{
@@ -79,9 +80,24 @@ li{
 }
 
 #container img{
-    height:200px;
+    width:80%;
     margin:auto;
     display:block;
+}
+@media screen and (max-width: 1400px) {
+    .sitename {
+        font-size: 28pt;
+        margin-left: 40px;
+
+    }
+    .navlink, .currnavlink{
+        font-size:20pt;
+        padding-right:50px;
+    }
+    #container{
+        width:90%;
+        padding: 10px 20px 10px 20px;
+    }
 }
 
 @media screen and (max-width: 1100px){
@@ -91,7 +107,7 @@ li{
     }
 
     .sitename{
-        font-size:30pt;
+        font-size:25pt;
         margin-left:60px;
 
     }
@@ -156,7 +172,7 @@ li{
 @media screen and (max-width: 800px){
     .sitename{
         font-size:22pt;
-        margin-left:35px;
+        margin-left:30px;
     }
 
     .containertitle{
@@ -173,11 +189,19 @@ li{
         font-size:19pt;
 
     }
+    .navlink, .currnavlink{
+        font-size:13pt;
+        padding-right:25px;
+    }
 }
 
 @media screen and (max-width: 700px){
+    #container{
+        width:90%;
+        padding:5px 10px 5px 10px;
+    }
     .sitename{
-        font-size:21pt;
+        font-size:18pt;
         margin-left:30px;
     }
 
@@ -195,9 +219,43 @@ li{
         font-size:17pt;
 
     }
+    ul{
+        margin:0 0 0 30px;
+    }
 
     .navlink, .currnavlink{
         font-size:12pt;
-        padding-right:40px;
+        padding-right:30px;
     }
+}
+
+@media screen and (max-width: 600px){
+    .sitename{
+        font-size:14pt;
+        margin-left:10px;
+        font-weight: bold;
+        text-transform:uppercase;
+    }
+
+    ul{
+        margin:0 0 0 10px;
+    }
+    .navlink, .currnavlink{
+        font-size:11pt;
+        padding-right:22px;
+    }
+}
+@media screen and (max-width: 500px){
+    .sitename{
+        font-size:12pt;
+        margin-left:3px;
+    }
+    .navlink, .currnavlink{
+        font-size:10pt;
+        padding-right:10px;
+    }
+}
+
+@media screen and (max-width: 380px){
+    /** FAIRE UN JS AVEC UN BOUTON MENU DEROULANT**/
 }
