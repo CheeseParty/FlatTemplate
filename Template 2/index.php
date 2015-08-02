@@ -16,7 +16,6 @@
                 <li><a href="#" class="navlink">Mods</a></li>
                 <li><a href="#" class="navlink">Maps</a></li>
                 <li><a href="#" class="navlink">Forum</a></li>
-                <li><a href="#" class="navlink">Contact</a></li>
             </ul>
         </div>
 
